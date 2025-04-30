@@ -1,6 +1,6 @@
 /******************************************************************************
 *
-* Copyright Xinyi Ren.  All rights reserved.
+* Copyright https://github.com/Shaun-R-Xy/DMA-USB2.0-Vendor/commits?author=Shaun-R-Xy.  All rights reserved.
 *
 ******************************************************************************/
 
